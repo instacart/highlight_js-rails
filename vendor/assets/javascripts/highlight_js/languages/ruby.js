@@ -4,7 +4,7 @@ Author: Anton Kovalyov <anton@kovalyov.net>
 Contributors: Peter Leonov <gojpeg@yandex.ru>, Vasily Polovnyov <vast@whiteants.net>, Loren Segal <lsegal@soen.ca>, Pascal Hurni <phi@ruby-reactive.org>
 */
 
-function(hljs) {
+hljs.LANGUAGES["ruby"] = function(hljs) {
   var RUBY_METHOD_RE = '[a-zA-Z_]\\w*[!?=]?|[-+~]\\@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?';
   var RUBY_KEYWORDS =
     'and false then defined module in return redo if BEGIN retry end for true self when ' +

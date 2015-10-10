@@ -3,7 +3,7 @@ Language: Scala
 Author: Jan Berkel <jan.berkel@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["scala"] = function(hljs) {
   var ANNOTATION = {
     className: 'annotation', begin: '@[A-Za-z]+'
   };

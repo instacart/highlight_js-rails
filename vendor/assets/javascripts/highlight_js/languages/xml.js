@@ -2,7 +2,7 @@
 Language: HTML, XML
 */
 
-function(hljs) {
+hljs.LANGUAGES["xml"] = function(hljs) {
   var XML_IDENT_RE = '[A-Za-z0-9\\._:-]+';
   var PHP = {
     begin: /<\?(php)?(?!\w)/, end: /\?>/,

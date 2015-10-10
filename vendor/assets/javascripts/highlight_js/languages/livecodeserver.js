@@ -6,7 +6,7 @@ Version: 1.0a
 Date: 2013-06-03
 */
 
-function(hljs) {
+hljs.LANGUAGES["livecodeserver"] = function(hljs) {
   var VARIABLE = {
     className: 'variable', begin: '\\b[gtps][A-Z]+[A-Za-z0-9_\\-]*\\b|\\$_[A-Z]+',
     relevance: 0

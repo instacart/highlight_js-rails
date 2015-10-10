@@ -2,7 +2,7 @@
 Language: JavaScript
 */
 
-function(hljs) {
+hljs.LANGUAGES["javascript"] = function(hljs) {
   return {
     aliases: ['js'],
     keywords: {

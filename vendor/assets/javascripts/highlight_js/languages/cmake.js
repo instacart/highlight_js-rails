@@ -5,7 +5,7 @@ Author: Igor Kalnitsky <igor@kalnitsky.org>
 Website: http://kalnitsky.org/
 */
 
-function(hljs) {
+hljs.LANGUAGES["cmake"] = function(hljs) {
   return {
     aliases: ['cmake.in'],
     case_insensitive: true,

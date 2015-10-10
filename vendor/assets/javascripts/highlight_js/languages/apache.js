@@ -6,7 +6,7 @@ Website: http://rukeba.com/
 Description: language definition for Apache configuration files (httpd.conf & .htaccess)
 */
 
-function(hljs) {
+hljs.LANGUAGES["apache"] = function(hljs) {
   var NUMBER = {className: 'number', begin: '[\\$%]\\d+'};
   return {
     aliases: ['apacheconf'],

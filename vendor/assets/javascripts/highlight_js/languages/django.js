@@ -5,7 +5,7 @@ Author: Ivan Sagalaev <maniac@softwaremaniacs.org>
 Contributors: Ilya Baryshev <baryshev@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["django"] = function(hljs) {
   var FILTER = {
     className: 'filter',
     begin: /\|[A-Za-z]+\:?/,

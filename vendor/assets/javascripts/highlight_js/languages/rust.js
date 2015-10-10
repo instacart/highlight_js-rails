@@ -4,7 +4,7 @@ Author: Andrey Vlasovskikh <andrey.vlasovskikh@gmail.com>
 Contributors: Roman Shmatov <romanshmatov@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["rust"] = function(hljs) {
   return {
     aliases: ['rs'],
     keywords:

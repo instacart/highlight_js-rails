@@ -4,7 +4,7 @@ Author: Valerii Hiora <valerii.hiora@gmail.com>
 Contributors: Angel G. Olloqui <angelgarcia.mail@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["objectivec"] = function(hljs) {
   var OBJC_KEYWORDS = {
     keyword:
       'int float while char export sizeof typedef const struct for union ' +

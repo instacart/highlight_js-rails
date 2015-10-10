@@ -3,7 +3,7 @@
  Contributors: Nikolay Lisienko <info@neor.ru>, Heiko August <post@auge8472.de>, Travis Odom <travis.a.odom@gmail.com>
  */
 
-function(hljs) {
+hljs.LANGUAGES["sql"] = function(hljs) {
   var COMMENT_MODE = {
     className: 'comment',
     begin: '--', end: '$'

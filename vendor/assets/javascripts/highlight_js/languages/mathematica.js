@@ -3,7 +3,7 @@ Language: Mathematica
 Author: Daniel Kvasnicka <dkvasnicka@vendavo.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["mathematica"] = function(hljs) {
   return {
     aliases: ['mma'],
     lexemes: '(\\$|\\b)' + hljs.IDENT_RE + '\\b',

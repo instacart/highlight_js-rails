@@ -3,7 +3,7 @@ Language: Makefile
 Author: Ivan Sagalaev <maniac@softwaremaniacs.org>
 */
 
-function(hljs) {
+hljs.LANGUAGES["makefile"] = function(hljs) {
   var VARIABLE = {
     className: 'variable',
     begin: /\$\(/, end: /\)/,

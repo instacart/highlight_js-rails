@@ -4,7 +4,7 @@ Author: Seongwon Lee <dlimpid@gmail.com>
 Description: AutoHotkey language definition
 */
 
-function(hljs) {
+hljs.LANGUAGES["autohotkey"] = function(hljs) {
   var BACKTICK_ESCAPE = {
     className: 'escape',
     begin: '`[\\s\\S]'

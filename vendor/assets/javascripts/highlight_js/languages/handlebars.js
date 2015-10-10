@@ -5,7 +5,7 @@ Author: Robin Ward <robin.ward@gmail.com>
 Description: Matcher for Handlebars as well as EmberJS additions.
 */
 
-function(hljs) {
+hljs.LANGUAGES["handlebars"] = function(hljs) {
   var EXPRESSION_KEYWORDS = 'each in with if else unless bindattr action collection debugger log outlet template unbound view yield';
   return {
     aliases: ['hbs', 'html.hbs', 'html.handlebars'],

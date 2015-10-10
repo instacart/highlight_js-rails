@@ -4,7 +4,7 @@ Author: Nikita Ledyaev <lenikita@yandex.ru>
 Contributors: Michal Gabrukiewicz <mgabru@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["vbscript"] = function(hljs) {
   return {
     aliases: ['vbs'],
     case_insensitive: true,

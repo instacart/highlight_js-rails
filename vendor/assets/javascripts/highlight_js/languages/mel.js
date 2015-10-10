@@ -4,7 +4,7 @@ Description: Maya Embedded Language
 Author: Shuen-Huei Guan <drake.guan@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["mel"] = function(hljs) {
   return {
     keywords:
       'int float string vector matrix if else switch case default while do for in break ' +

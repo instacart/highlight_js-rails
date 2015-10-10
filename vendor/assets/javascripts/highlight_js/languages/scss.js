@@ -2,7 +2,7 @@
 Language: SCSS
 Author: Kurt Emch <kurt@kurtemch.com>
 */
-function(hljs) {
+hljs.LANGUAGES["scss"] = function(hljs) {
   var IDENT_RE = '[a-zA-Z-][a-zA-Z0-9_-]*';
   var VARIABLE = {
     className: 'variable',

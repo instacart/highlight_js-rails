@@ -4,7 +4,7 @@ Author: Josh Adams <josh@isotope11.com>
 Description: language definition for Elixir source code files (.ex and .exs).  Based on ruby language support.
 */
 
-function(hljs) {
+hljs.LANGUAGES["elixir"] = function(hljs) {
   var ELIXIR_IDENT_RE = '[a-zA-Z_][a-zA-Z0-9_]*(\\!|\\?)?';
   var ELIXIR_METHOD_RE = '[a-zA-Z_]\\w*[!?=]?|[-+~]\\@|<<|>>|=~|===?|<=>|[<>]=?|\\*\\*|[-/+%^&*~`|]|\\[\\]=?';
   var ELIXIR_KEYWORDS =

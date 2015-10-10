@@ -4,7 +4,7 @@ Author: Jonas Follesø <jonas@follesoe.no>
 Contributors: Troy Kershaw <hello@troykershaw.com>
 Description: F# language definition.
 */
-function(hljs) {
+hljs.LANGUAGES["fsharp"] = function(hljs) {
   return {
     aliases: ['fs'],
     keywords:

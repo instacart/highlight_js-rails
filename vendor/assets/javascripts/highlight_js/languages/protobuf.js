@@ -4,7 +4,7 @@ Author: Dan Tao <daniel.tao@gmail.com>
 Description: Protocol buffer message definition format
 */
 
-function(hljs) {
+hljs.LANGUAGES["protobuf"] = function(hljs) {
   return {
     keywords: {
       keyword: 'package import option optional required repeated group',

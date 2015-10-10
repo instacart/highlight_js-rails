@@ -4,7 +4,7 @@ Description: OpenGL Shading Language
 Author: Sergey Tikhomirov <me@stikhomirov.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["glsl"] = function(hljs) {
   return {
     keywords: {
       keyword:

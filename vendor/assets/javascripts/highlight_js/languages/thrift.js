@@ -4,7 +4,7 @@ Author: Oleg Efimov <efimovov@gmail.com>
 Description: Thrift message definition format
 */
 
-function(hljs) {
+hljs.LANGUAGES["thrift"] = function(hljs) {
   var BUILT_IN_TYPES = 'bool byte i16 i32 i64 double string binary';
   return {
     keywords: {

@@ -3,7 +3,7 @@ Language: DOS .bat
 Author: Alexander Makarov (http://rmcreative.ru/)
 */
 
-function(hljs) {
+hljs.LANGUAGES["dos"] = function(hljs) {
   return {
     aliases: ['bat', 'cmd'],
     case_insensitive: true,

@@ -4,7 +4,7 @@ Author: Jeremy Hull <sourdrums@gmail.com>
 Contributors: Zena Treep <zena.treep@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["haskell"] = function(hljs) {
 
   var COMMENT = {
     className: 'comment',

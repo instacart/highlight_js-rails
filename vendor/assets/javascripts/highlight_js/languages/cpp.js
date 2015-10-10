@@ -4,7 +4,7 @@ Author: Ivan Sagalaev <maniac@softwaremaniacs.org>
 Contributors: Evgeny Stepanischev <imbolk@gmail.com>, Zaven Muradyan <megalivoithos@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["cpp"] = function(hljs) {
   var CPP_KEYWORDS = {
     keyword: 'false int float while private char catch export virtual operator sizeof ' +
       'dynamic_cast|10 typedef const_cast|10 const struct for static_cast|10 union namespace ' +

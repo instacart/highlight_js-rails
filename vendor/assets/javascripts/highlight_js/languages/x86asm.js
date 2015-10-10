@@ -4,7 +4,7 @@ Author: innocenat <innocenat@gmail.com>
 Description: x86 assembly language using Intel's mnemonic and NASM syntax
 */
 
-function(hljs) {
+hljs.LANGUAGES["x86asm"] = function(hljs) {
   return {
     case_insensitive: true,
     lexemes: '\\.?' + hljs.IDENT_RE,

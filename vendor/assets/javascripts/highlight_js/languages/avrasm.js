@@ -3,7 +3,7 @@ Language: AVR Assembler
 Author: Vladimir Ermakov <vooon341@gmail.com>
 */
 
-function(hljs) {
+hljs.LANGUAGES["avrasm"] = function(hljs) {
   return {
     case_insensitive: true,
     lexemes: '\\.?' + hljs.IDENT_RE,

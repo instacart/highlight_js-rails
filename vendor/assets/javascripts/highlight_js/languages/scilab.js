@@ -5,7 +5,7 @@ Origin: matlab.js
 Description: Scilab is a port from Matlab
 */
 
-function(hljs) {
+hljs.LANGUAGES["scilab"] = function(hljs) {
 
   var COMMON_CONTAINS = [
     hljs.C_NUMBER_MODE,

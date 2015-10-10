@@ -4,7 +4,7 @@ Author: Oleg Efimov <efimovov@gmail.com>
 Description: Cap’n Proto message definition format
 */
 
-function(hljs) {
+hljs.LANGUAGES["capnproto"] = function(hljs) {
   return {
     aliases: ['capnp'],
     keywords: {

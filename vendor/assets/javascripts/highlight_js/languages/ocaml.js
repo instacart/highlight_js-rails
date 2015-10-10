@@ -4,7 +4,7 @@ Author: Mehdi Dogguy <mehdi@dogguy.org>
 Contributors: Nicolas Braud-Santoni <nicolas.braud-santoni@ens-cachan.fr>
 Description: OCaml language definition.
 */
-function(hljs) {
+hljs.LANGUAGES["ocaml"] = function(hljs) {
   return {
     aliases: ['ml'],
     keywords: {
