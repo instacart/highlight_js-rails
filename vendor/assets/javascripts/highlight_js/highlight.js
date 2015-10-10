@@ -586,6 +586,7 @@ var hljs = new function() {
 
   /* Interface definition */
 
+  this.LANGUAGES = languages;
   this.highlight = highlight;
   this.highlightAuto = highlightAuto;
   this.fixMarkup = fixMarkup;
