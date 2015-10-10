@@ -57,4 +57,4 @@ hljs.LANGUAGES["smalltalk"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

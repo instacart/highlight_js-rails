@@ -44,4 +44,4 @@ hljs.LANGUAGES["profile"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

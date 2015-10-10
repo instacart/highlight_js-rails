@@ -157,4 +157,4 @@ hljs.LANGUAGES["erlang"] = function(hljs) {
       {begin: /\.$/} // relevance booster
     ]
   };
-}
+}(hljs);

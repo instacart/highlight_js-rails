@@ -89,4 +89,4 @@ hljs.LANGUAGES["nsis"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

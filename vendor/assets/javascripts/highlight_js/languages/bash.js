@@ -65,4 +65,4 @@ hljs.LANGUAGES["bash"] = function(hljs) {
       VAR
     ]
   };
-}
+}(hljs);

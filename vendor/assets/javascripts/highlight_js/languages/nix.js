@@ -53,4 +53,4 @@ hljs.LANGUAGES["nix"] = function(hljs) {
     keywords: NIX_KEYWORDS,
     contains: EXPRESSIONS
   };
-}
+}(hljs);

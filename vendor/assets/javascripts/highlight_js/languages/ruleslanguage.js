@@ -59,4 +59,4 @@ hljs.LANGUAGES["ruleslanguage"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

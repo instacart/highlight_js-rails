@@ -52,4 +52,4 @@ hljs.LANGUAGES["vbnet"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

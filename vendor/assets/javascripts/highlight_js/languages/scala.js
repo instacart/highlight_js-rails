@@ -60,4 +60,4 @@ hljs.LANGUAGES["scala"] = function(hljs) {
       ANNOTATION
     ]
   };
-}
+}(hljs);

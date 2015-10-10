@@ -125,4 +125,4 @@ hljs.LANGUAGES["haml"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

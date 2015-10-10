@@ -65,4 +65,4 @@ hljs.LANGUAGES["cpp"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

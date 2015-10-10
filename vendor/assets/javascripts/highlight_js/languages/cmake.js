@@ -42,4 +42,4 @@ hljs.LANGUAGES["cmake"] = function(hljs) {
       hljs.NUMBER_MODE
     ]
   };
-}
+}(hljs);

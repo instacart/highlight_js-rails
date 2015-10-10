@@ -36,4 +36,4 @@ hljs.LANGUAGES["http"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

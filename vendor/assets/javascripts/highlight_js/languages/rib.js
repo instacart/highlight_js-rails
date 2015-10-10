@@ -29,4 +29,4 @@ hljs.LANGUAGES["rib"] = function(hljs) {
       hljs.QUOTE_STRING_MODE
     ]
   };
-}
+}(hljs);

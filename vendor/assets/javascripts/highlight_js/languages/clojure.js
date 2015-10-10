@@ -100,4 +100,4 @@ hljs.LANGUAGES["clojure"] = function(hljs) {
       }
     ]
   }
-}
+}(hljs);

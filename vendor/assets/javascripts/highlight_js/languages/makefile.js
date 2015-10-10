@@ -46,4 +46,4 @@ hljs.LANGUAGES["makefile"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

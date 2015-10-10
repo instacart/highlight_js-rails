@@ -50,4 +50,4 @@ hljs.LANGUAGES["apache"] = function(hljs) {
     ],
     illegal: /\S/
   };
-}
+}(hljs);

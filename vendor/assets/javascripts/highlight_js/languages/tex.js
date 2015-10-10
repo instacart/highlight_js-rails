@@ -55,4 +55,4 @@ hljs.LANGUAGES["tex"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

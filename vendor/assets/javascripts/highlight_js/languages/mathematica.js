@@ -60,4 +60,4 @@ hljs.LANGUAGES["mathematica"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

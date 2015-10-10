@@ -61,4 +61,4 @@ hljs.LANGUAGES["scilab"] = function(hljs) {
       }
     ].concat(COMMON_CONTAINS)
   };
-}
+}(hljs);

@@ -75,4 +75,4 @@ hljs.LANGUAGES["actionscript"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

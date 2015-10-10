@@ -87,4 +87,4 @@ hljs.LANGUAGES["objectivec"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

@@ -232,4 +232,4 @@ hljs.LANGUAGES["mel"] = function(hljs) {
       hljs.C_BLOCK_COMMENT_MODE
     ]
   };
-}
+}(hljs);

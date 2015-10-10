@@ -83,4 +83,4 @@ hljs.LANGUAGES["lisp"] = function(hljs) {
       LIST
     ]
   };
-}
+}(hljs);

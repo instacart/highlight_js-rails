@@ -128,4 +128,4 @@ hljs.LANGUAGES["haskell"] = function(hljs) {
       {begin: '->|<-'} // No markup, relevance booster
     ]
   };
-}
+}(hljs);

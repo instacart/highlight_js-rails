@@ -39,4 +39,4 @@ hljs.LANGUAGES["json"] = function(hljs) {
     keywords: LITERALS,
     illegal: '\\S'
   };
-}
+}(hljs);

@@ -79,4 +79,4 @@ hljs.LANGUAGES["matlab"] = function(hljs) {
       }
     ].concat(COMMON_CONTAINS)
   };
-}
+}(hljs);

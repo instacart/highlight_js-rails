@@ -96,4 +96,4 @@ hljs.LANGUAGES["glsl"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

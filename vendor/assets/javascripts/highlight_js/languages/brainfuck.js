@@ -37,4 +37,4 @@ hljs.LANGUAGES["brainfuck"] = function(hljs){
       LITERAL
     ]
   };
-}
+}(hljs);

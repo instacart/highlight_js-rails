@@ -117,4 +117,4 @@ hljs.LANGUAGES["scss"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

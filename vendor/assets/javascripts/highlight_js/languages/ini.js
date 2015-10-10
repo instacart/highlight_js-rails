@@ -30,4 +30,4 @@ hljs.LANGUAGES["ini"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

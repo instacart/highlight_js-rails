@@ -47,4 +47,4 @@ hljs.LANGUAGES["parser3"] = function(hljs) {
       hljs.C_NUMBER_MODE
     ]
   };
-}
+}(hljs);

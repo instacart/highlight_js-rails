@@ -105,4 +105,4 @@ hljs.LANGUAGES["markdown"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

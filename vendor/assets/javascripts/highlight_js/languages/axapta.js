@@ -36,4 +36,4 @@ hljs.LANGUAGES["axapta"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

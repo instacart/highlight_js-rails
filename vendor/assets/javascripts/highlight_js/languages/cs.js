@@ -75,4 +75,4 @@ hljs.LANGUAGES["cs"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

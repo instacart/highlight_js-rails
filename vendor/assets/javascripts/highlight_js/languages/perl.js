@@ -150,4 +150,4 @@ hljs.LANGUAGES["perl"] = function(hljs) {
     keywords: PERL_KEYWORDS,
     contains: PERL_DEFAULT_CONTAINS
   };
-}
+}(hljs);

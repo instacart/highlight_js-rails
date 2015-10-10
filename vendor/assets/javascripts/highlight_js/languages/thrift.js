@@ -38,4 +38,4 @@ hljs.LANGUAGES["thrift"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

@@ -36,4 +36,4 @@ hljs.LANGUAGES["handlebars"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

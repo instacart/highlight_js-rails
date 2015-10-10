@@ -83,4 +83,4 @@ hljs.LANGUAGES["nginx"] = function(hljs) {
     ],
     illegal: '[^\\s\\}]'
   };
-}
+}(hljs);

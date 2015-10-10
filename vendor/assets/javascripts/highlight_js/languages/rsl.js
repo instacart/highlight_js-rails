@@ -39,4 +39,4 @@ hljs.LANGUAGES["rsl"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

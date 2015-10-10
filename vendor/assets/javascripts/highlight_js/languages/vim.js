@@ -65,4 +65,4 @@ hljs.LANGUAGES["vim"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

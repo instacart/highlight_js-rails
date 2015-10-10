@@ -104,4 +104,4 @@ hljs.LANGUAGES["css"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

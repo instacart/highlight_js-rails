@@ -80,4 +80,4 @@ hljs.LANGUAGES["monkey"] = function(hljs) {
       NUMBER
     ]
   }
-}
+}(hljs);

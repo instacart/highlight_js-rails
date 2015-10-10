@@ -64,4 +64,4 @@ hljs.LANGUAGES["rust"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

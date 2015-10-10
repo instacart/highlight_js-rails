@@ -71,4 +71,4 @@ hljs.LANGUAGES["r"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

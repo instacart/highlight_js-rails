@@ -67,4 +67,4 @@ hljs.LANGUAGES["oxygene"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

@@ -21,4 +21,4 @@ hljs.LANGUAGES["mizar"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

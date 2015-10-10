@@ -98,4 +98,4 @@ hljs.LANGUAGES["applescript"] = function(hljs) {
     ].concat(COMMENTS),
     illegal: '//'
   };
-}
+}(hljs);

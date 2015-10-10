@@ -49,4 +49,4 @@ hljs.LANGUAGES["fsharp"] = function(hljs) {
       hljs.C_NUMBER_MODE
     ]
   };
-}
+}(hljs);

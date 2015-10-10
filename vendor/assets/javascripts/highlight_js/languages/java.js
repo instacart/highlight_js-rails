@@ -56,4 +56,4 @@ hljs.LANGUAGES["java"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

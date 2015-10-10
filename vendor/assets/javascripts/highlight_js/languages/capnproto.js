@@ -51,4 +51,4 @@ hljs.LANGUAGES["capnproto"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

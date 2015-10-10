@@ -39,4 +39,4 @@ hljs.LANGUAGES["vbscript"] = function(hljs) {
       hljs.C_NUMBER_MODE
     ]
   };
-}
+}(hljs);

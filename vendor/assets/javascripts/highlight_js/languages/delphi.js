@@ -59,4 +59,4 @@ hljs.LANGUAGES["delphi"] = function(hljs) {
       FUNCTION
     ]
   };
-}
+}(hljs);

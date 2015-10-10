@@ -84,4 +84,4 @@ hljs.LANGUAGES["python"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

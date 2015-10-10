@@ -46,4 +46,4 @@ hljs.LANGUAGES["vhdl"] = function(hljs) {
       }
     ]
   }; // return
-}
+}(hljs);

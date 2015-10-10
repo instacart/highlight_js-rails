@@ -42,4 +42,4 @@ hljs.LANGUAGES["diff"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

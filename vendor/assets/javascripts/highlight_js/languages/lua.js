@@ -58,4 +58,4 @@ hljs.LANGUAGES["lua"] = function(hljs) {
       }
     ])
   };
-}
+}(hljs);

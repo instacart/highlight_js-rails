@@ -52,4 +52,4 @@ hljs.LANGUAGES["erlang-repl"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

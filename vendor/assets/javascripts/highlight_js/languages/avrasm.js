@@ -57,4 +57,4 @@ hljs.LANGUAGES["avrasm"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

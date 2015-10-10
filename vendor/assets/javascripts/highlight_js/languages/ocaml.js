@@ -46,4 +46,4 @@ hljs.LANGUAGES["ocaml"] = function(hljs) {
       hljs.C_NUMBER_MODE
     ]
   }
-}
+}(hljs);

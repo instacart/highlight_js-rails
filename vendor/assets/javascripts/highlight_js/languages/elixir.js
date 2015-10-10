@@ -111,4 +111,4 @@ hljs.LANGUAGES["elixir"] = function(hljs) {
     keywords: ELIXIR_KEYWORDS,
     contains: ELIXIR_DEFAULT_CONTAINS
   };
-}
+}(hljs);

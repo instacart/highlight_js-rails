@@ -104,4 +104,4 @@ hljs.LANGUAGES["sql"] = function(hljs) {
       COMMENT_MODE
     ]
   };
-}
+}(hljs);

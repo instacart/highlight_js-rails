@@ -33,4 +33,4 @@ hljs.LANGUAGES["dos"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

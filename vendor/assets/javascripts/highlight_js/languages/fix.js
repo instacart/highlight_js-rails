@@ -30,4 +30,4 @@ hljs.LANGUAGES["fix"] = function(hljs) {
     }],
     case_insensitive: true
   };
-}
+}(hljs);

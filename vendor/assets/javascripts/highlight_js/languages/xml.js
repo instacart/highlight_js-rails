@@ -104,4 +104,4 @@ hljs.LANGUAGES["xml"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

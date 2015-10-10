@@ -261,4 +261,4 @@ hljs.LANGUAGES["d"] = function(hljs) {
         D_ATTRIBUTE_MODE
     ]
   };
-}
+}(hljs);

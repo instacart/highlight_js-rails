@@ -196,4 +196,4 @@ hljs.LANGUAGES["asciidoc"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

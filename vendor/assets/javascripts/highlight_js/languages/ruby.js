@@ -187,4 +187,4 @@ hljs.LANGUAGES["ruby"] = function(hljs) {
     keywords: RUBY_KEYWORDS,
     contains: IRB_DEFAULT.concat(RUBY_DEFAULT_CONTAINS)
   };
-}
+}(hljs);

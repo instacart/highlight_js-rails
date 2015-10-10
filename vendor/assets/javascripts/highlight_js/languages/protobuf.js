@@ -39,4 +39,4 @@ hljs.LANGUAGES["protobuf"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

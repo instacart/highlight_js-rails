@@ -134,4 +134,4 @@ hljs.LANGUAGES["coffeescript"] = function(hljs) {
       }
     ])
   };
-}
+}(hljs);

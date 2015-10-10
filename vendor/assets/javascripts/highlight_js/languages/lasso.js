@@ -181,4 +181,4 @@ hljs.LANGUAGES["lasso"] = function(hljs) {
       }
     ].concat(LASSO_CODE)
   };
-}
+}(hljs);

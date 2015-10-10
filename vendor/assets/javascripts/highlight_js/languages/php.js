@@ -111,4 +111,4 @@ hljs.LANGUAGES["php"] = function(hljs) {
       NUMBER
     ]
   };
-}
+}(hljs);

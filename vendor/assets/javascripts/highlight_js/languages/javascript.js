@@ -72,4 +72,4 @@ hljs.LANGUAGES["javascript"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

@@ -59,4 +59,4 @@ hljs.LANGUAGES["django"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

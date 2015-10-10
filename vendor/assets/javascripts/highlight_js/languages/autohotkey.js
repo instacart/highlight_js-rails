@@ -62,4 +62,4 @@ hljs.LANGUAGES["autohotkey"] = function(hljs) {
       }
     ])
   }
-}
+}(hljs);

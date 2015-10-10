@@ -57,4 +57,4 @@ hljs.LANGUAGES["vala"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

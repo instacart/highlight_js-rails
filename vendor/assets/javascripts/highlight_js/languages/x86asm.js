@@ -149,4 +149,4 @@ hljs.LANGUAGES["x86asm"] = function(hljs) {
       }
     ]
   };
-}
+}(hljs);

@@ -173,4 +173,4 @@ hljs.LANGUAGES["livecodeserver"] = function(hljs) {
     ],
     illegal: ';$|^\\[|^='
   };
-}
+}(hljs);
